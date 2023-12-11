@@ -1,5 +1,12 @@
 # local_llm
 
+This is a (filtered) fork of [dusty-nv's](https://github.com/dusty-nv) amazing
+repository of NVIDIA Jetson Machine Learning
+Containers][(https://github.com/dusty-nv/jetson-containers). This version only
+includes the
+[local\_llm](https://github.com/dusty-nv/jetson-containers/tree/master/packages/llm/local_llm)
+package with the addition of an api endpoint for streaming LLM chat completions.
+
 > [`CONTAINERS`](#user-content-containers) [`IMAGES`](#user-content-images) [`RUN`](#user-content-run) [`BUILD`](#user-content-build)
 
 
