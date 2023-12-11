@@ -2,7 +2,7 @@
 
 This is a (filtered) fork of [dusty-nv's](https://github.com/dusty-nv) amazing
 repository of NVIDIA Jetson Machine Learning
-Containers][(https://github.com/dusty-nv/jetson-containers). This version only
+Containers](https://github.com/dusty-nv/jetson-containers). This version only
 includes the
 [local\_llm](https://github.com/dusty-nv/jetson-containers/tree/master/packages/llm/local_llm)
 package with the addition of an api endpoint for streaming LLM chat completions.
